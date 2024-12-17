@@ -40,3 +40,32 @@ Error: The detected velocity is -0.1 m/s greater than the target velocity.
 ## Simulation Results Visualized:
 ![Detection](Detection.png  )
 
+## Getting Started
+Prerequisites
+MATLAB or any compatible software (e.g., Octave) to run the MATLAB scripts.
+Basic understanding of FMCW radar and signal processing concepts.
+## Installation
+1.Clone the repository:
+```plaintext
+git clone https://github.com/PANGAHARISH/FMCW-Radar-Data-Processing.git
+```
+2.Navigate to the project directory
+```plaintext
+cd FMCW-Radar-Data-Processing
+```
+3.Open the Radar_Sim.m file in MATLAB to run the radar simulation.
+
+## How to Run the Simulation
+1.Open Radar_Sim.m in MATLAB.
+2.Ensure that the adcDataGenerate.m function is in the same directory.
+3.Run the Radar_Sim.m script. The radar data will be processed using 2D DFT and results will be displayed as mesh plots.
+4.View the Detection.png file to see the detected range and velocity results.
+## Conclusion
+This project demonstrates the effectiveness of 2D DFT in enhancing FMCW radar systems for accurate target detection. The results show that range and velocity estimates can be derived with minimal error. Future work can focus on optimizing signal processing algorithms and incorporating machine learning models for enhanced radar performance.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Special thanks to the mentor Dr.Saurabh Khanna for guiding the radar signal processing techniques.
+Thanks to the MATLAB community for their open-source libraries and resources.
