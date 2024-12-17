@@ -64,7 +64,8 @@ cd FMCW-Radar-Data-Processing
 This project demonstrates the effectiveness of 2D DFT in enhancing FMCW radar systems for accurate target detection. The results show that range and velocity estimates can be derived with minimal error. Future work can focus on optimizing signal processing algorithms and incorporating machine learning models for enhanced radar performance.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to the mentor Dr.Saurabh Khanna for guiding the radar signal processing techniques.
