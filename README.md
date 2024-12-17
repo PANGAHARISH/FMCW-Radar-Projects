@@ -13,7 +13,7 @@ These projects showcase advanced signal processing methods, including the use of
 
 ## Table of Contents
 
-1. [FMCW Radar Data Processing using 2D DFT for Range-Doppler Analysis](#fmcw-radar-data-processing-using-2d-dft-for-range-doppler-analysis)
+1. [FMCW Radar Data Processing using 2D DFT for Range-Doppler Analysis](#FMCW Radar Data Processing using 2D DFT for Range-Doppler Analysis)
     - Overview
     - Features
     - File Structure
