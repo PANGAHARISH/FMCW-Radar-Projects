@@ -19,7 +19,7 @@ These projects showcase advanced signal processing methods, including the use of
     - File Structure
     - Simulation Results
     - How to Run
-2. ### [Enhanced Ranging and Angle Estimation Using Subsampled Measurements from Multiple FMCW Radars](enhanced-ranging-and-angle-estimation-using-subsampled-measurements-from-multiple-fmcw-radars/README.md)
+2. ### [Enhanced Ranging and Angle Estimation Using Subsampled Measurements from Multiple FMCW Radars](Enhanced Ranging and Angle Estimation Using Subsampled Measurements from Multiple FMCW Radars/README.md)
     - Overview
     - Features
     - File Structure
