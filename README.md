@@ -13,7 +13,7 @@ These projects showcase advanced signal processing methods, including the use of
 
 ## Table of Contents
 
-1. ### [FMCW Radar Data Processing using 2D DFT for Range-Doppler Analysis](Enhanced Ranging-and-Angle-Estimation-Using-Subsampled-Measurements-from-Multiple-FMCW-Radars/README.md)
+1. ### [FMCW Radar Data Processing using 2D DFT for Range-Doppler Analysis](FMCW-Radar-Data-Processing-using-2D-DFT-for-Range-Doppler-Analysis/README.md)
     - Overview
     - Features
     - File Structure
